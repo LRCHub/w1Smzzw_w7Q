@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ride",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T05:24:17.289554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ride Like the Wind",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/01_Ride_Like_the_Wind_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Ride",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/02_The_Ride_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Ride",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/03_American_Ride_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Ride Easy (with June Carter Cash)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/04_Baby_Ride_Easy_(with_June_Carter_Cash)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Ride Easy",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_Baby_Ride_Easy_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eight Second Ride",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/06_Eight_Second_Ride_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Highway 20 Ride",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/07_Highway_20_Ride_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'd Rather Ride Around With You",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/08_I'd_Rather_Ride_Around_With_You_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'd Rather Ride Around With You (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/09_I'd_Rather_Ride_Around_With_You_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ride Me Back Home",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/10_Ride_Me_Back_Home_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ride Me Down Easy",
+      "artist": "Bobby Bare",
+      "has_synced": false,
+      "path": "select/11_Ride_Me_Down_Easy_Bobby_Bare.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "Tucker Beathard",
+      "has_synced": false,
+      "path": "select/12_Ride_On_Tucker_Beathard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ride the Lightning",
+      "artist": "Warren Zeiders",
+      "has_synced": true,
+      "path": "select/13_Ride_the_Lightning_Warren_Zeiders.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ride the Lightning (717 Tapes)",
+      "artist": "Warren Zeiders",
+      "has_synced": true,
+      "path": "select/14_Ride_the_Lightning_(717_Tapes)_Warren_Zeiders.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Save A Horse (Ride A Cowboy)",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/15_Save_A_Horse_(Ride_A_Cowboy)_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Save a Horse (Ride a Cowboy) (Album Version)",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/16_Save_a_Horse_(Ride_a_Cowboy)_(Album_Version)_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/17_Short_Sweet_Ride_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/18_Short_Sweet_Ride_Alan_Jackson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ride",
+      "artist": "twenty one pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Ride_twenty_one_pilots.txt"
+    }
+  ]
+}
